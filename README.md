@@ -2,4 +2,4 @@
 
 ### start le projet --> "npm start" 
 
-### il est possible de naviguer comme avec ls en fesant par exemple "npm start ../" depuis le dossier ou vous êtes.
+### il est possible de naviguer comme avec ls en faisant par exemple "npm start ../" depuis le dossier où vous êtes.
