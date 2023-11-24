@@ -1,4 +1,4 @@
-# tp semaine 1 - faire ls like
+# tp semaine 1 back - faire un ls like
 
 ### start le projet --> "npm start" 
 
